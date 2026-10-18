@@ -2608,5 +2608,185 @@
     "durationSeconds": 60,
     "bytes": 1922088,
     "sha256": "3f0474cc4af38e6ca122d89f4f6955a738872e6cc5275369723aebb8d2e6aeaf"
+  },
+  {
+    "id": "sfg-new-abcd462-cd1-t01",
+    "albumId": "new-abcd462",
+    "title": "Nielsen: String Quartet No. 1 — I. Allegro energico",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922036,
+    "sha256": "1fc1cc4a734b03ab30917bf0c015cff5db06060f6464205ce10f1dd4313b2243"
+  },
+  {
+    "id": "sfg-new-abcd462-cd1-t06",
+    "albumId": "new-abcd462",
+    "title": "Stenhammar: String Quartet No. 6 — II. Allegro vivace",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922040,
+    "sha256": "dc13fa52b751ebf839c99e0e2df9878821238e584f349730294db4afe77c407d"
+  },
+  {
+    "id": "sfg-new-abcd462-cd1-t07",
+    "albumId": "new-abcd462",
+    "title": "Stenhammar: String Quartet No. 6 — III. Poco adagio",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922036,
+    "sha256": "2d96325dcfc3ce2828bc68318677c0e35544581ee7fa609922d8b04a21b7d3ef"
+  },
+  {
+    "id": "sfg-new-abcd467-cd1-t01",
+    "albumId": "new-abcd467",
+    "title": "Salonen: Stockholm Diary",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921952,
+    "sha256": "8e358c3c8df51fbd7b6a1c02f191e0d240dd783bc284264108c9a74f8bc9c384"
+  },
+  {
+    "id": "sfg-new-abcd467-cd1-t02",
+    "albumId": "new-abcd467",
+    "title": "Beamish: Glanz",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1921942,
+    "sha256": "c87545742d819bc44eb51672956c693655bdd66734053017b9ebb53c742337c3"
+  },
+  {
+    "id": "sfg-new-abcd467-cd1-t06",
+    "albumId": "new-abcd467",
+    "title": "Schoenberg: Verklärte Nacht — Sehr breit und langsam",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922035,
+    "sha256": "e2755a42517619c07b5b82b4963eec14dfe258b398d60c7503cdc71b90dffa31"
+  },
+  {
+    "id": "sfg-new-abcd473-cd1-t01",
+    "albumId": "new-abcd473",
+    "title": "Tarrodi: Acanthes",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921949,
+    "sha256": "8825aa76f28cbc73e582967f712be1952ffecf0ea1923be49b3921bef65537c0"
+  },
+  {
+    "id": "sfg-new-abcd473-cd1-t02",
+    "albumId": "new-abcd473",
+    "title": "Larsson Gothe: Lied von der Erde",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1921964,
+    "sha256": "725ca35b6651f48231fd02673bbd2618ec8ac1c01b9a6004ffe23cdb9ca55c85"
+  },
+  {
+    "id": "sfg-new-abcd473-cd1-t03",
+    "albumId": "new-abcd473",
+    "title": "Byström: Im Freien",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1921971,
+    "sha256": "53f7f3d213cba3b8ab2a9e0e1b1260f575caa89d297ef754608c4d85ac4ca73e"
+  },
+  {
+    "id": "sfg-new-abcd511-cd1-t01",
+    "albumId": "new-abcd511",
+    "title": "Piano Quartet — I. Appassionato",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922055,
+    "sha256": "d9492654eeabbc59d7eef4636c4e8a368975b41f0b42f5adb0dda2781fa4f50f"
+  },
+  {
+    "id": "sfg-new-abcd511-cd1-t06",
+    "albumId": "new-abcd511",
+    "title": "Prelude and Sicilienne — Sicilienne",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922063,
+    "sha256": "6bcfb13cdae62a1bc1684b7495da16b3d5e4e9268b4dc7f9f90cc89232d15bdc"
+  },
+  {
+    "id": "sfg-new-abcd511-cd1-t08",
+    "albumId": "new-abcd511",
+    "title": "Piano Trio No. 2 — I. Exordium",
+    "disc": 1,
+    "track": 8,
+    "durationSeconds": 60,
+    "bytes": 1922053,
+    "sha256": "99701ff25ce7b9ca6bd2f807efbd3970260e545352eafa9fa8f151028ed94f04"
+  },
+  {
+    "id": "sfg-new-abcd526-cd1-t01",
+    "albumId": "new-abcd526",
+    "title": "Sonata No. 8 — I. Allegro assai",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922033,
+    "sha256": "e97d3c6588623cfc0ad02f984b2b06f0f3460bc2aa31c71eaf8393fb4ac91b34"
+  },
+  {
+    "id": "sfg-new-abcd526-cd1-t05",
+    "albumId": "new-abcd526",
+    "title": "Sonata No. 4 — II. Andante scherzoso, più allegretto",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922075,
+    "sha256": "8d0794dedf748a52d96e692c71af7a427da5880517ee8163e7df0edb739a3447"
+  },
+  {
+    "id": "sfg-new-abcd526-cd1-t08",
+    "albumId": "new-abcd526",
+    "title": "Sonata No. 9 — II. Andante con variazioni",
+    "disc": 1,
+    "track": 8,
+    "durationSeconds": 60,
+    "bytes": 1922053,
+    "sha256": "bd739fd47f97d7dd3ccfc9733aef79e5aa75d48a3a80d50e42912c17a078b5ea"
+  },
+  {
+    "id": "sfg-new-cpo555420-cd1-t01",
+    "albumId": "new-cpo555420",
+    "title": "Myaskovsky: Cello Concerto — I. Lento ma non troppo",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922042,
+    "sha256": "2aeb13bd0f5256016f6581ab435261f3ffd79368dac4442a7c2ea9a13eb19487"
+  },
+  {
+    "id": "sfg-new-cpo555420-cd1-t04",
+    "albumId": "new-cpo555420",
+    "title": "Myaskovsky: Cello Sonata No. 1 — II. Allegro passionato",
+    "disc": 1,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1922050,
+    "sha256": "e4c4d82ec28174476fb0d7302d6d2b720d0db363c96eae9dfb66488795c801c9"
+  },
+  {
+    "id": "sfg-new-cpo555420-cd1-t09",
+    "albumId": "new-cpo555420",
+    "title": "Myaskovsky: Cello Sonata No. 2 — II. Andante cantabile",
+    "disc": 1,
+    "track": 9,
+    "durationSeconds": 60,
+    "bytes": 1922048,
+    "sha256": "3cacece0ce4fae640f93a69fa2edba7459c87602e6a150a10a544c44c8eee2cf"
   }
 ]
