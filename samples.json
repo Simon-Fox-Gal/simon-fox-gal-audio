@@ -150,36 +150,6 @@
     "sha256": "d4c3b41f62d6f6a4dcf9c3419a78926dec1efe191e46444e3d7e9ceb344adee1"
   },
   {
-    "id": "sfg-g006-cd1-t01",
-    "albumId": "G006",
-    "title": "Sonata in G HWV 358, I. Allegro",
-    "disc": 1,
-    "track": 1,
-    "durationSeconds": 60,
-    "bytes": 1921989,
-    "sha256": "f0e8dad68712b727257cf24cf06fb75676144dfd72f28861141138ba5f0923d8"
-  },
-  {
-    "id": "sfg-g006-cd1-t12",
-    "albumId": "G006",
-    "title": "Sonata in G minor HWV 364a, I. Larghetto",
-    "disc": 1,
-    "track": 12,
-    "durationSeconds": 60,
-    "bytes": 1921998,
-    "sha256": "a2f3fda1713f42fb02004c8f79bc66cfd1e6e4453f12dcca66186760b42f019f"
-  },
-  {
-    "id": "sfg-g006-cd1-t19",
-    "albumId": "G006",
-    "title": "Sonata in A HWV 372, IV. Allegro",
-    "disc": 1,
-    "track": 19,
-    "durationSeconds": 60,
-    "bytes": 1921990,
-    "sha256": "10d2b56e8a1007f2846f41e5ececc76c33b84cec337cee831212309a96d4ca71"
-  },
-  {
     "id": "sfg-g007-cd1-t01",
     "albumId": "G007",
     "title": "Sonata 1 in G major, I. Adagio",
@@ -1230,36 +1200,6 @@
     "sha256": "bc6ce3ebc0f6ea64df91d2ac7cc86e77db3850699f9e53a688ccc7132811c961"
   },
   {
-    "id": "sfg-r042-cd1-t01",
-    "albumId": "R042",
-    "title": "Sinfonia in B flat, HWV 339, I. Allegro",
-    "disc": 1,
-    "track": 1,
-    "durationSeconds": 60,
-    "bytes": 1922007,
-    "sha256": "a6ae541c9faef4655fc52d11335edc4b7cc58c43a8ec6d44417d5d684fc23967"
-  },
-  {
-    "id": "sfg-r042-cd1-t06",
-    "albumId": "R042",
-    "title": "Trio Sonata in F, HWV 392, III. Adagio",
-    "disc": 1,
-    "track": 6,
-    "durationSeconds": 60,
-    "bytes": 1922006,
-    "sha256": "22de8247a044ee51647ed0b017279bc9e941026b760be993e6a8992071af3000"
-  },
-  {
-    "id": "sfg-r042-cd1-t10",
-    "albumId": "R042",
-    "title": "Trio Sonata in B flat, HWV 50a ‘Esther’, III. Allegro",
-    "disc": 1,
-    "track": 10,
-    "durationSeconds": 60,
-    "bytes": 1922077,
-    "sha256": "c0b29dfff6a3c44753051b8c9514c17f6538efb7336d3a3f0d89c6d22e25db0d"
-  },
-  {
     "id": "sfg-r044-cd1-t01",
     "albumId": "R044",
     "title": "Salve regina I (John Browne)",
@@ -1288,36 +1228,6 @@
     "durationSeconds": 60,
     "bytes": 1922011,
     "sha256": "8db2ca3b162f74dbcc672e1e344e48b841f8ae615eff63e609a7a79f4bf36ca7"
-  },
-  {
-    "id": "sfg-r046-cd1-t01",
-    "albumId": "R046",
-    "title": "Sonata in G BWV1027: I. Adagio",
-    "disc": 1,
-    "track": 1,
-    "durationSeconds": 60,
-    "bytes": 1922027,
-    "sha256": "f69c4829461bf48398109c1016e3ce2d3c51e92bb2d58a79a878e3210ea6a1ec"
-  },
-  {
-    "id": "sfg-r046-cd1-t09",
-    "albumId": "R046",
-    "title": "Sonata in G minor BWV1029: I. Vivace",
-    "disc": 1,
-    "track": 9,
-    "durationSeconds": 60,
-    "bytes": 1922033,
-    "sha256": "54a59fe0d524557c0eae2b0318b95256d3b50a507da195ae7fa7586a35fcb5b0"
-  },
-  {
-    "id": "sfg-r046-cd1-t14",
-    "albumId": "R046",
-    "title": "Trio in G minor Wq88: III. Allegro assai",
-    "disc": 1,
-    "track": 14,
-    "durationSeconds": 60,
-    "bytes": 1922037,
-    "sha256": "bb629af6fd9450a7886fd012c2f0d8ed67d68f317020aba3b5ac6508535d05c9"
   },
   {
     "id": "sfg-r048-cd1-t01",
@@ -1498,36 +1408,6 @@
     "durationSeconds": 60,
     "bytes": 1922016,
     "sha256": "8bbeebcefbe7952489baea41d592c277108a980e6c2928411c4659d41d015f21"
-  },
-  {
-    "id": "sfg-r059-cd1-t01",
-    "albumId": "R059",
-    "title": "Sonata No.3 in B flat: I. Andante",
-    "disc": 1,
-    "track": 1,
-    "durationSeconds": 60,
-    "bytes": 1921973,
-    "sha256": "f0e0321b131fdbe2de6416647ca5825b07b8ce50b6204ea94125b8b99da70799"
-  },
-  {
-    "id": "sfg-r059-cd1-t06",
-    "albumId": "R059",
-    "title": "2. Allegro — II. Allegro",
-    "disc": 1,
-    "track": 6,
-    "durationSeconds": 60,
-    "bytes": 1921991,
-    "sha256": "65e30b49f6f503c35b4a5678b733f869377b76feebcb4404cc77d4f3c714a8a8"
-  },
-  {
-    "id": "sfg-r059-cd1-t11",
-    "albumId": "R059",
-    "title": "3. Adagio — III. Adagio",
-    "disc": 1,
-    "track": 11,
-    "durationSeconds": 60,
-    "bytes": 1921989,
-    "sha256": "78a9d8531a5f8176abe0263e781623d409133fe5f1668ec8d41d69f85b3eb8d8"
   },
   {
     "id": "sfg-r061-cd1-t01",
@@ -2368,5 +2248,365 @@
     "durationSeconds": 60,
     "bytes": 1922101,
     "sha256": "1c3936e055422bf37f392bf4ef422f83305dca864e8634a49daf3a8061bbb463"
+  },
+  {
+    "id": "sfg-new-abcd477-cd1-t01",
+    "albumId": "new-abcd477",
+    "title": "Leinonen: Vyöry / Avalanche",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921997,
+    "sha256": "3c19458a0350d2a5d7c00d15fd4ddd7b509976730c83201e8f5baeebed7c3def"
+  },
+  {
+    "id": "sfg-new-abcd477-cd1-t02",
+    "albumId": "new-abcd477",
+    "title": "Sallinen: Concerto, Duo Concertante — I",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1922021,
+    "sha256": "b8b766e78c82cbbf19b8323801378219ac34dce9ecf7c8d6d6b86e7afe5a3598"
+  },
+  {
+    "id": "sfg-new-abcd477-cd1-t05",
+    "albumId": "new-abcd477",
+    "title": "Kujala: Shape Shifter — III. Largo intensivo",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922031,
+    "sha256": "79f2f972a861f00b14d5af0cbfbbec2001bb2d86b8305103acd2ca01435d445b"
+  },
+  {
+    "id": "sfg-new-cpo555364-cd1-t01",
+    "albumId": "new-cpo555364",
+    "title": "Sinfonia Concertante in D — I. Allegro con spirito",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922092,
+    "sha256": "a52c16e00e2a9e75feba17bf24b95f72c3ae56d0a01397d6161751ba86f27f19"
+  },
+  {
+    "id": "sfg-new-cpo555364-cd1-t05",
+    "albumId": "new-cpo555364",
+    "title": "Piano Concerto in F — II. Andante con variazioni",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922088,
+    "sha256": "13ff04443f315129b69ed7feced4161ed3a01e172961f564b6636208eb6ace21"
+  },
+  {
+    "id": "sfg-new-cpo555364-cd1-t09",
+    "albumId": "new-cpo555364",
+    "title": "Symphony in A — III. Menuetto, molto allegretto",
+    "disc": 1,
+    "track": 9,
+    "durationSeconds": 60,
+    "bytes": 1922086,
+    "sha256": "5f88755437a9b16d51f355d89069adebd06887bbfe65e87e9aed399f33aeb6d2"
+  },
+  {
+    "id": "sfg-new-cpo555492-cd1-t01",
+    "albumId": "new-cpo555492",
+    "title": "Symphony No. 18 — I. Adagio – Allegro spiritoso",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922058,
+    "sha256": "a0fac83ec9e4bd1435e17408ee8935e977cb34c5e15050823b41e9cbc63fb60c"
+  },
+  {
+    "id": "sfg-new-cpo555492-cd1-t09",
+    "albumId": "new-cpo555492",
+    "title": "Symphony No. 21 — II. Arioso, adagio",
+    "disc": 1,
+    "track": 9,
+    "durationSeconds": 60,
+    "bytes": 1922036,
+    "sha256": "c6f17e3578e02c6f2968cbc1c59c0714f40804b79b54cd4dc5d3511964f3b531"
+  },
+  {
+    "id": "sfg-new-cpo555492-cd1-t10",
+    "albumId": "new-cpo555492",
+    "title": "Symphony No. 21 — III. Menuetto, allegretto",
+    "disc": 1,
+    "track": 10,
+    "durationSeconds": 60,
+    "bytes": 1922050,
+    "sha256": "8c3cccf92c1e2667d721bfed0348de811b0bb83d7c76676705a74d4eac2c1f35"
+  },
+  {
+    "id": "sfg-new-sigcd781-cd1-t01",
+    "albumId": "new-sigcd781",
+    "title": "Sonata VI in D, Op. 1 — I. Grave",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922071,
+    "sha256": "7f396049b2d92ad72fa23b8387aa646a1edb02335cf2fcbc275d6a1c68c569c8"
+  },
+  {
+    "id": "sfg-new-sigcd781-cd1-t06",
+    "albumId": "new-sigcd781",
+    "title": "Sonata IX in A for violin and cello — II. Allegro",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922105,
+    "sha256": "98e129476eaeb0ab26e323ff2d14f372f39ec1c38479aca3dc229b518be8174b"
+  },
+  {
+    "id": "sfg-new-sigcd781-cd1-t14",
+    "albumId": "new-sigcd781",
+    "title": "Sonata VI in E minor for violin — III. Giga",
+    "disc": 1,
+    "track": 14,
+    "durationSeconds": 60,
+    "bytes": 1922093,
+    "sha256": "4967ba24910913a8e3c44fb138c1471fcac63f8c999ee2ec77a1d1cf2d075d32"
+  },
+  {
+    "id": "sfg-new-sigcd908-cd1-t01",
+    "albumId": "new-sigcd908",
+    "title": "Concerto for two violins, two oboes and two recorders, RV 557 — I. Allegro non molto",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922109,
+    "sha256": "449e8db573c82265464a8205a42a555ddab13ecb59efd00154d3d57eeadcc6f3"
+  },
+  {
+    "id": "sfg-new-sigcd908-cd1-t05",
+    "albumId": "new-sigcd908",
+    "title": "Concerto for two cellos, RV 531 — II. Largo",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922027,
+    "sha256": "01e5bb7fc97ed8ee1ec5a6bc3e6d83861b7dec6e9eea7655bdb7d8d9db74fad7"
+  },
+  {
+    "id": "sfg-new-sigcd908-cd1-t07",
+    "albumId": "new-sigcd908",
+    "title": "Concerto for two flutes, RV 533 — I. Allegro molto",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922041,
+    "sha256": "76497116e37f746af9bcc78b7faf329f985611cf27c64ad3b146e9efde1cfd89"
+  },
+  {
+    "id": "sfg-new-tocc0781-cd1-t01",
+    "albumId": "new-tocc0781",
+    "title": "The Maiden and the Son of a Boyar, Op. 18 No. 2",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922004,
+    "sha256": "ed088f6075ce56f08b0b3e674bacbae1e1b768c2b878cd0c362f3c2e5933d569"
+  },
+  {
+    "id": "sfg-new-tocc0781-cd1-t04",
+    "albumId": "new-tocc0781",
+    "title": "Four Songs, Op. 23 — No. 3, Treading on Flowers",
+    "disc": 1,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1922054,
+    "sha256": "78a1a51a366d3702b3bb7012bfa67efd2692fa31062c6924bfa2906e4bd08550"
+  },
+  {
+    "id": "sfg-new-tocc0781-cd1-t10",
+    "albumId": "new-tocc0781",
+    "title": "Vocalise (Mélodie Lugubre), Op. 17c No. 2",
+    "disc": 1,
+    "track": 10,
+    "durationSeconds": 60,
+    "bytes": 1922042,
+    "sha256": "d6775f1c4d2b83a81f623aa539850f948fe182663b09947d60a0f66414dcb372"
+  },
+  {
+    "id": "sfg-new-zri-cafedanube-cd1-t01",
+    "albumId": "new-zri-cafedanube",
+    "title": "Mozart: Rondo alla Turca",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921962,
+    "sha256": "8a0a6f2e61f46a553e70cd647645ff2b6c34cb0d2f89e9bf21c0f7f83ef75caf"
+  },
+  {
+    "id": "sfg-new-zri-cafedanube-cd1-t03",
+    "albumId": "new-zri-cafedanube",
+    "title": "Sultan Abdülaziz: Hicâzkar Sirto",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1922005,
+    "sha256": "cdaba7d2d9aeaf83e23eb611315911fede4766f58773ba3d261691b57ed862ac"
+  },
+  {
+    "id": "sfg-new-zri-cafedanube-cd1-t04",
+    "albumId": "new-zri-cafedanube",
+    "title": "Satie: Gnossienne No. 1",
+    "disc": 1,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1921961,
+    "sha256": "f9911701e424a566886283a277d45ed10acc0d803820046f0764b46e5de42c4a"
+  },
+  {
+    "id": "sfg-r002-cd1-t01",
+    "albumId": "R002",
+    "title": "Purcell: Chacony in G minor",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922033,
+    "sha256": "330901118468d33ebb63cdee15889a9022c046c774d627443ee90821df14a630"
+  },
+  {
+    "id": "sfg-r002-cd1-t08",
+    "albumId": "R002",
+    "title": "Matteis: Violin Concerto in B-flat — II. Adagio",
+    "disc": 1,
+    "track": 8,
+    "durationSeconds": 60,
+    "bytes": 1922103,
+    "sha256": "953185d7959cd20ee0a77bed2cbafebd0d7bb9542d711ec3abfcfde4819b5fb6"
+  },
+  {
+    "id": "sfg-r002-cd2-t07",
+    "albumId": "R002",
+    "title": "Brescianello: Ouverture-Suite in C — IV. Hornpippe",
+    "disc": 2,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922109,
+    "sha256": "2fb3e38f91138ca57409dc883cdd97a4c3b354931eb1bdf795e77f82419072d1"
+  },
+  {
+    "id": "sfg-r004-cd1-t01",
+    "albumId": "R004",
+    "title": "Violin Concerto IV in E minor — I. Allegro",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922030,
+    "sha256": "5ef02e678e0790d22019a99b2b81589deea5ba00a002ae8a541b16f417e8df6f"
+  },
+  {
+    "id": "sfg-r004-cd1-t07",
+    "albumId": "R004",
+    "title": "Violin Concerto V in C minor — II. Largo",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922026,
+    "sha256": "61cbbc51d4dc05b77b6f457a8cdf4b53783934855ab7789ead4cc42eb17c3899"
+  },
+  {
+    "id": "sfg-r004-cd1-t10",
+    "albumId": "R004",
+    "title": "Sinphonia V in F major — II. Presto",
+    "disc": 1,
+    "track": 10,
+    "durationSeconds": 60,
+    "bytes": 1922016,
+    "sha256": "a585eb9cdcd620160e4b86a4c15499cbad464ec9dad00579a43143535afeafe2"
+  },
+  {
+    "id": "sfg-r005-cd1-t01",
+    "albumId": "R005",
+    "title": "Cello Concerto No. 4 in E minor — I. Allegro",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922069,
+    "sha256": "8ab197dcdf8b6479fbdaa02cea027c631b51236ba7ca0f1e22ee852e4f0b2fd6"
+  },
+  {
+    "id": "sfg-r005-cd1-t03",
+    "albumId": "R005",
+    "title": "Cello Concerto No. 4 in E minor — III. Rondo alla polacca",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1922095,
+    "sha256": "396e1513addd77d57165f9947887b1d83fd11a9647de1e77d4108d48a68eccd7"
+  },
+  {
+    "id": "sfg-r005-cd1-t05",
+    "albumId": "R005",
+    "title": "Cello Concerto No. 6 in F — II. Lento",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922055,
+    "sha256": "184614a53f4eb02243b61384c2a445f5ec34fed74c6ca7a6cb722eb32cdcabd2"
+  },
+  {
+    "id": "sfg-r006-cd1-t01",
+    "albumId": "R006",
+    "title": "Zavateri: Introducione in G — I. Largo e spicco – Allegro assai",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922125,
+    "sha256": "2f33ee286593f673b237612c047a5aee5f345ff36ed3f5143bceab084706c55b"
+  },
+  {
+    "id": "sfg-r006-cd1-t04",
+    "albumId": "R006",
+    "title": "Sammartini: Recorder Concerto in F — II. Largo",
+    "disc": 1,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1922091,
+    "sha256": "9f06e017aaa1dac3d16626a723eb0f2356f55cec491653f5e548c3ab8ff87009"
+  },
+  {
+    "id": "sfg-r006-cd1-t09",
+    "albumId": "R006",
+    "title": "Vivaldi: Violin Concerto in A, RV 353 — I. Allegro",
+    "disc": 1,
+    "track": 9,
+    "durationSeconds": 60,
+    "bytes": 1922099,
+    "sha256": "8408a2bbb0553a70d45b1df01fa8984c34a23f87df045529ad8333ed2f1df15c"
+  },
+  {
+    "id": "sfg-r008-cd1-t01",
+    "albumId": "R008",
+    "title": "Viola d’amore Concerto in D minor, RV 394 — I. Allegro",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922076,
+    "sha256": "28c509a02636f9ceda47aee4f8011fe94e00ac248725f780d3be9e48cc814b6f"
+  },
+  {
+    "id": "sfg-r008-cd1-t07",
+    "albumId": "R008",
+    "title": "Cur sagittas, cur tela, cur faces, RV 637 — Cur sagittas",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922080,
+    "sha256": "4a32cc01fd3310c4d1ab066a7f50bd0be69471cf568956e5cae680d2b37e376a"
+  },
+  {
+    "id": "sfg-r008-cd1-t14",
+    "albumId": "R008",
+    "title": "Concerto for violin and organ in D minor, RV 541 — II. Grave",
+    "disc": 1,
+    "track": 14,
+    "durationSeconds": 60,
+    "bytes": 1922088,
+    "sha256": "3f0474cc4af38e6ca122d89f4f6955a738872e6cc5275369723aebb8d2e6aeaf"
   }
 ]
