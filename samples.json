@@ -1888,5 +1888,485 @@
     "durationSeconds": 60,
     "bytes": 1921993,
     "sha256": "6337a31619d2ae0f4cabf7ef6d5d79807194d47a9bac843d4f6a75fd2ed5c465"
+  },
+  {
+    "id": "sfg-ddp-abcd380-cd1-t01",
+    "albumId": "ddp-abcd380",
+    "title": "Villem Kapp: Elegie",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921944,
+    "sha256": "f3342c587754c59de9445306249037d3e4bcd0085dc359e5183fbab526e098de"
+  },
+  {
+    "id": "sfg-ddp-abcd380-cd1-t04",
+    "albumId": "ddp-abcd380",
+    "title": "Lars-Erik Larsson: Little Serenade, iii. Allegro vivace",
+    "disc": 1,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1921980,
+    "sha256": "eb16c50514ab65524d9c8c9de1989baa57ed33b4369e9408aff2d3a69791f345"
+  },
+  {
+    "id": "sfg-ddp-abcd380-cd1-t09",
+    "albumId": "ddp-abcd380",
+    "title": "Einar Englund: Serenata for string orchestra, ii. Andante",
+    "disc": 1,
+    "track": 9,
+    "durationSeconds": 60,
+    "bytes": 1921982,
+    "sha256": "e81f3984793c526fdeb34a2414e5a0fd11ede28b9b207b11e6f2be3a728375aa"
+  },
+  {
+    "id": "sfg-ddp-abcd409-cd1-t01",
+    "albumId": "ddp-abcd409",
+    "title": "Esa-Pekka Salonen: Homunculus for String Quartet",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922000,
+    "sha256": "4f8fd2df2674ddaa039221210bdc1105c0a40567276f6ea4fd5f491844d63ca6"
+  },
+  {
+    "id": "sfg-ddp-abcd409-cd1-t02",
+    "albumId": "ddp-abcd409",
+    "title": "György Ligeti: String Quartet No.1 (Métamorphoses nocturnes)",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1922075,
+    "sha256": "12c87de07798c1215eecd9f98c21e3c7487d8a95e3dc4f8bfdfb11c4e78ab2ed"
+  },
+  {
+    "id": "sfg-ddp-abcd409-cd1-t05",
+    "albumId": "ddp-abcd409",
+    "title": "Benjamin Britten: String Quartet 3, Solo. Very calm",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922003,
+    "sha256": "e881e29ceb47f583878b7152ed4e63b79423f839a91c18d1ed608cb95f2473bd"
+  },
+  {
+    "id": "sfg-ddp-abcd425-cd1-t01",
+    "albumId": "ddp-abcd425",
+    "title": "Concerto No. 4 for Violin and String Orchestra Op. 90",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922003,
+    "sha256": "34d5bfb80064b52fdfefda445d2490f31d8f0609658cfdb6a242b8cc7214b1dc"
+  },
+  {
+    "id": "sfg-ddp-abcd425-cd1-t02",
+    "albumId": "ddp-abcd425",
+    "title": "Rock Score Op. 100",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1921968,
+    "sha256": "8e9dd2d5006158523a9a2eacfc6c7bba8b53da73a9d5479a075c906c79b9546b"
+  },
+  {
+    "id": "sfg-ddp-abcd425-cd1-t03",
+    "albumId": "ddp-abcd425",
+    "title": "Concerto for Horn and Strings Op 95",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1921985,
+    "sha256": "4f96d92d13faffd544a5fa3222cc8369b3dfc040f1ca5cc230ab720e9670e749"
+  },
+  {
+    "id": "sfg-ddp-abcd443-cd1-t01",
+    "albumId": "ddp-abcd443",
+    "title": "Violin Sonata No. 1, Op. 134 — Sonata Op.134 no.1",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922129,
+    "sha256": "34aadf76ad6ab26410ba2a0dd9558ebbf7cadf2077c8bf772798d35f6ef72ea1"
+  },
+  {
+    "id": "sfg-ddp-abcd443-cd1-t03",
+    "albumId": "ddp-abcd443",
+    "title": "Violin Sonata No. 2, Op. 134 — 2. Elegiaco",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1922115,
+    "sha256": "d02a55e8e609507fd3c204c1f04695b0ad568d8cb367400bb63506e91ae30ee6"
+  },
+  {
+    "id": "sfg-ddp-abcd443-cd1-t05",
+    "albumId": "ddp-abcd443",
+    "title": "Violin Sonata No. 2, Op. 134 — 4. Scherzo",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922113,
+    "sha256": "5b9ee31d2d1b153ba63b596cd4333c991f8bc956cdf0c24beb9780026094b660"
+  },
+  {
+    "id": "sfg-ddp-abcd447-cd1-t01",
+    "albumId": "ddp-abcd447",
+    "title": "Juha Leinonen: Athene",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921962,
+    "sha256": "f40a52ad3bcc6299f026bbb2efe05c2634ebc4cd61a2966be81c49e3e5542a32"
+  },
+  {
+    "id": "sfg-ddp-abcd447-cd1-t02",
+    "albumId": "ddp-abcd447",
+    "title": "Juha Leinonen: String Quartet: \"Diary Sketches\"",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1921988,
+    "sha256": "9739de8c4f81890ecd9528a3356adf86e04d05c65d0e9fc6667d5ac611d4db32"
+  },
+  {
+    "id": "sfg-ddp-abcd447-cd1-t03",
+    "albumId": "ddp-abcd447",
+    "title": "Juha Leinonen: \"Foga\"",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1921962,
+    "sha256": "77a1aee2fbff2013fa1c8bbda51812905466cb95c1d7a733edfb2433c6f0abe8"
+  },
+  {
+    "id": "sfg-ddp-abcd444-cd1-t01",
+    "albumId": "ddp-abcd444",
+    "title": "Cello Suite No. 5 in C minor, BWV 1011 — Prelude",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922049,
+    "sha256": "65770e2cfa2d9d817fd73466a29c53ac675e83c619102cf41b9f610f3fddaafd"
+  },
+  {
+    "id": "sfg-ddp-abcd444-cd1-t11",
+    "albumId": "ddp-abcd444",
+    "title": "Cello Suite No. 3 in C major, BWV 1009 — Bourrées I & II",
+    "disc": 1,
+    "track": 11,
+    "durationSeconds": 60,
+    "bytes": 1922065,
+    "sha256": "fe08702068bc9a422e741082819a4734adef56492e3aa7a50297d7e3470981a2"
+  },
+  {
+    "id": "sfg-ddp-abcd444-cd2-t04",
+    "albumId": "ddp-abcd444",
+    "title": "Cello Suite No. 1 in G major, BWV 1007 — Sarabande",
+    "disc": 2,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1922053,
+    "sha256": "b15e64ca0a1b660729eac5ad243a2d1998ebb4d682d7142784aed4fc9414965a"
+  },
+  {
+    "id": "sfg-ddp-abcd455-cd1-t01",
+    "albumId": "ddp-abcd455",
+    "title": "Missa Viridium: Kyrie",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921968,
+    "sha256": "80f94e7d9cc3ee0d4f235bd605123729d5c4adb661aaa321bee0e72349b7a342"
+  },
+  {
+    "id": "sfg-ddp-abcd455-cd1-t06",
+    "albumId": "ddp-abcd455",
+    "title": "Valitus - Lamentations",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1921969,
+    "sha256": "345c363c1771babb5909ee6002091e0c191d198d604f5086c9ce49926a597fb1"
+  },
+  {
+    "id": "sfg-ddp-abcd455-cd2-t02",
+    "albumId": "ddp-abcd455",
+    "title": "Gloria ja Kiitosvirsi - Gloria and canticle",
+    "disc": 2,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1921990,
+    "sha256": "76ffeb3084fdc50fccb5a265d13dab2bd6c6192fff86a7f58de453c2a8272819"
+  },
+  {
+    "id": "sfg-ddp-av2315-cd1-t01",
+    "albumId": "ddp-av2315",
+    "title": "ALFRED SCHNITTKE: STRING TRIO, I. Moderato",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922070,
+    "sha256": "5c444beaccf36263b048fc0ca35d413002018c85c09ff9c212acb799ce0dbeb0"
+  },
+  {
+    "id": "sfg-ddp-av2315-cd1-t04",
+    "albumId": "ddp-av2315",
+    "title": "String Trio, Op. 48 — II. Andante",
+    "disc": 1,
+    "track": 4,
+    "durationSeconds": 60,
+    "bytes": 1922097,
+    "sha256": "4968c3431f0a45235fd597cb015475d0e3c61c2ca2447c24ecb91f6059b6a1e2"
+  },
+  {
+    "id": "sfg-ddp-av2315-cd1-t07",
+    "albumId": "ddp-av2315",
+    "title": "Signs, Games and Messages — II. Perpetuum mobile",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922127,
+    "sha256": "3bc7aff56f949170993ee97ccfefa70cfe012c2b5a4b2f74d6b3cc5155dd2d7e"
+  },
+  {
+    "id": "sfg-ddp-fibo001-cd1-t01",
+    "albumId": "ddp-fibo001",
+    "title": "Johann Sebastian Bach: Brandenburg Concerto No 3, i. (Allegro)",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921986,
+    "sha256": "9ff4abaf18cd1ec9e9d710a70f38733d4880a3344e6595dd5e8fb5cd2fd57227"
+  },
+  {
+    "id": "sfg-ddp-fibo001-cd1-t05",
+    "albumId": "ddp-fibo001",
+    "title": "Concerto in G minor, RV 577 — ii. Largo non molto",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922025,
+    "sha256": "3c39271dc16efe8657dadcc9844a8094203cd2860330e893cf86a83665deebc5"
+  },
+  {
+    "id": "sfg-ddp-fibo001-cd1-t07",
+    "albumId": "ddp-fibo001",
+    "title": "Jukka Tiensuu: Mora, i. Vaiko",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1921953,
+    "sha256": "b0c469d133f1384ca6621b07bfd1be6083e88e052aba59a73d57804bac016422"
+  },
+  {
+    "id": "sfg-ddp-fibo002-cd1-t01",
+    "albumId": "ddp-fibo002",
+    "title": "Jukka Tiensuu: Innuo (2017)",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921955,
+    "sha256": "8c2dc1be38979474a03c2294dad5c9b1608a12a61196c169fea4b4d59ca26c29"
+  },
+  {
+    "id": "sfg-ddp-fibo002-cd1-t02",
+    "albumId": "ddp-fibo002",
+    "title": "Perttu Haapanen: Coral Counterpoint (2015/2016)",
+    "disc": 1,
+    "track": 2,
+    "durationSeconds": 60,
+    "bytes": 1921975,
+    "sha256": "8066255a2052fb0685d055e1b611121035c3d94436d2d410d5fb4301bf97b07f"
+  },
+  {
+    "id": "sfg-ddp-fibo002-cd1-t03",
+    "albumId": "ddp-fibo002",
+    "title": "Sarah Nemtsov: running. out of tune (2013)",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1921970,
+    "sha256": "bf0123d2889858aba2a0119918a81a879bc3e283ebcf533fb31212fd8f11de6f"
+  },
+  {
+    "id": "sfg-ddp-sunlight-cd1-t01",
+    "albumId": "ddp-sunlight",
+    "title": "Floating in the Clouds",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921956,
+    "sha256": "ae344cda1c367479eb0f59f0ff6d406f325e583164bf864ff4c8cf1429cacf19"
+  },
+  {
+    "id": "sfg-ddp-sunlight-cd1-t07",
+    "albumId": "ddp-sunlight",
+    "title": "Rainbow Rain",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1921946,
+    "sha256": "490a055246c8f3bcd9f6abb3497ecae6b103912b9356fbeb7fb21c2a45aeb222"
+  },
+  {
+    "id": "sfg-ddp-sunlight-cd1-t11",
+    "albumId": "ddp-sunlight",
+    "title": "Baggy Point",
+    "disc": 1,
+    "track": 11,
+    "durationSeconds": 60,
+    "bytes": 1921945,
+    "sha256": "3cd343ca2f537073c44586a5d5947cd3767a0e05f672a140e3e6ed73a339239a"
+  },
+  {
+    "id": "sfg-ddp-smlmp35-cd1-t01",
+    "albumId": "ddp-smlmp35",
+    "title": "Mozart: Fantasy in C minor, K475",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1921988,
+    "sha256": "495bf61d9bc5f91b64e366722ab0c36c7969638f869ef226255644a873702b17"
+  },
+  {
+    "id": "sfg-ddp-smlmp35-cd1-t03",
+    "albumId": "ddp-smlmp35",
+    "title": "Piano Sonata No. 8 in C minor, Op. 13: Pathétique — ii. Adagio cantabile",
+    "disc": 1,
+    "track": 3,
+    "durationSeconds": 60,
+    "bytes": 1922103,
+    "sha256": "e9840895302af2d9e4257bf75f009d2206380c216f098603f2ac059af53ce849"
+  },
+  {
+    "id": "sfg-ddp-smlmp35-cd1-t07",
+    "albumId": "ddp-smlmp35",
+    "title": "Piano Sonata in B-flat major, D. 960 — iii. Scherzo. Allegro vivace con delicatezza",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922125,
+    "sha256": "310c088c8db92cca63943329659e9382626339e8e404ecef9ebf82754fdc80ae"
+  },
+  {
+    "id": "sfg-ddp-smlmp49-cd1-t01",
+    "albumId": "ddp-smlmp49",
+    "title": "Claude Debussy: Suite Bergamasque,  Prélude. Moderato (tempo rubato)",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922083,
+    "sha256": "d13dc4b3215f1dbfcbbf9c3df1914df9fe844cc6eb2eb93d4f33edea679ae668"
+  },
+  {
+    "id": "sfg-ddp-smlmp49-cd1-t06",
+    "albumId": "ddp-smlmp49",
+    "title": "Frédéric Chopin: Berceuse in D flat major, op 57",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922043,
+    "sha256": "d2a1e10cbf7706281150cd59b01387b2e68460d31d3d5ded961e34fc50a27a9a"
+  },
+  {
+    "id": "sfg-ddp-smlmp49-cd1-t08",
+    "albumId": "ddp-smlmp49",
+    "title": "Frédéric Chopin: Scherzo no 4 in E major, op 54",
+    "disc": 1,
+    "track": 8,
+    "durationSeconds": 60,
+    "bytes": 1922041,
+    "sha256": "bb97f235490cf96560124bf09fc6e0bf826d4d8bd78f9c9aa3783928775445b2"
+  },
+  {
+    "id": "sfg-ddp-solo-sor-cd1-t01",
+    "albumId": "ddp-solo-sor",
+    "title": "Introducción y variaciones sobre un tema de Mozart, Op. 9",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922049,
+    "sha256": "199714b3062cc2a91ee6500be0dda2c4502d215c72972d38136064ab55f32643"
+  },
+  {
+    "id": "sfg-ddp-solo-sor-cd1-t05",
+    "albumId": "ddp-solo-sor",
+    "title": "Seis Bagatelles, Op. 43, ”Mes Ennuis” No. 3. Cantabile",
+    "disc": 1,
+    "track": 5,
+    "durationSeconds": 60,
+    "bytes": 1922043,
+    "sha256": "68cc44080bd9465ef7113bd1018190d8566ea3d0aca0b147d14e413a2378f2be"
+  },
+  {
+    "id": "sfg-ddp-solo-sor-cd1-t13",
+    "albumId": "ddp-solo-sor",
+    "title": "Fantasía No. 13, Op. 59 ”Fantaisie elegiaque”",
+    "disc": 1,
+    "track": 13,
+    "durationSeconds": 60,
+    "bytes": 1922025,
+    "sha256": "89c30b9cea3f90a7c1ee11386b79d2fb987ec35d75a73e4e13e54d8655599400"
+  },
+  {
+    "id": "sfg-ddp-tocc0409-cd1-t01",
+    "albumId": "ddp-tocc0409",
+    "title": "String Quartet No.3 Op.7: I Allegro moderato e patetico",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922026,
+    "sha256": "4caf0addfdbf0f31711d89cb4afa381d308ea45e4b0c6b4d1f9647c90b15a848"
+  },
+  {
+    "id": "sfg-ddp-tocc0409-cd1-t06",
+    "albumId": "ddp-tocc0409",
+    "title": "String Quartet No.4 Op.16: II Menuetto. Allegretto ma non troppo",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922035,
+    "sha256": "67fec91f2e401f3e296af524508c28e6f80bd738bd68e64b6992f63606dd5f7e"
+  },
+  {
+    "id": "sfg-ddp-tocc0409-cd1-t07",
+    "albumId": "ddp-tocc0409",
+    "title": "String Quartet No.4 Op.16: III Adagio",
+    "disc": 1,
+    "track": 7,
+    "durationSeconds": 60,
+    "bytes": 1922008,
+    "sha256": "04bfad05eb85d6ed62b844c9a3fe56ead64ae770a579c4fe582c69a74110842a"
+  },
+  {
+    "id": "sfg-r017-cd1-t01",
+    "albumId": "R017",
+    "title": "Variations on Gott erhalte Franz den Kaiser — Haydn: Gott erhalte Franz den Kaiser",
+    "disc": 1,
+    "track": 1,
+    "durationSeconds": 60,
+    "bytes": 1922189,
+    "sha256": "be99a7904f80c98e6621e48ec1788f0d68ecbc9634e1b631930a0d2d653cc311"
+  },
+  {
+    "id": "sfg-r017-cd1-t06",
+    "albumId": "R017",
+    "title": "Piano Sonata No. 8 in A minor — II. Andante cantabile con espressione",
+    "disc": 1,
+    "track": 6,
+    "durationSeconds": 60,
+    "bytes": 1922163,
+    "sha256": "600d206c654ce6002681abcebe87ec71e6684295f2a220c612c7d4835a7300aa"
+  },
+  {
+    "id": "sfg-r017-cd1-t10",
+    "albumId": "R017",
+    "title": "Piano Sonata in A major — III. Allegro",
+    "disc": 1,
+    "track": 10,
+    "durationSeconds": 60,
+    "bytes": 1922101,
+    "sha256": "1c3936e055422bf37f392bf4ef422f83305dca864e8634a49daf3a8061bbb463"
   }
 ]
